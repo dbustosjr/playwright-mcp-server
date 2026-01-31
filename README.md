@@ -466,6 +466,28 @@ Built with:
 - [mcp-use](https://github.com/modelcontextprotocol/mcp-use) - Enhanced MCP server framework
 - [Model Context Protocol](https://modelcontextprotocol.io/) - Protocol specification
 
+
+
+## 📚 Citation
+
+
+@software{mcp_use2025,
+  author = {Zullo, Pietro and Contributors},
+  title = {MCP-Use: Complete MCP Ecosystem for Python and TypeScript},
+  year = {2025},
+  publisher = {GitHub},
+  url = {https://github.com/mcp-use/mcp-use}
+  
+}
+
+
+
+
+
+
+
+
+
 ---
 
 **Version:** 1.0.0
